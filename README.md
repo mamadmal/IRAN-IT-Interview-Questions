@@ -22,7 +22,9 @@ if you want contibutte, please just mention quenstions that you been interviewd.
 ### * تفاوت MBR و GPT?
 ### * سناریو: یک مودم ADSL داریم و یک میکروتیک. چطور به کلاینت اینترنت بدیم؟
 ### * راهکار برای اشغال شدن و حملات به VOIP Server?
-###
+### * group policy در ویندوز؟
+### * vlan و trunk رو توضیح دهید؟
+### * داخل zabixx چطور نود میزاریم و داشبور درست میکنیم؟
 
 
 
